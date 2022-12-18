@@ -1,5 +1,5 @@
 .terraform/
-.terraform.lock.hcl
 
 terraform.tfstate*
 kubeconfig
+terraform-secrets.tfvars
